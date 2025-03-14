@@ -17,3 +17,11 @@ Projects
 
 NEW YORK TAXI TRIP PREDICTION
 
+This Project aims at predicting the trip duration target variable of the New York taxi trip to help improve logistics and efficiency of allocating trip for drifferent route in the NewYork Metropolis.
+logo: 
+
+LOAN PREDICTION
+
+This Project is a classification problem focused on predicting loan default using different features in the data set.
+logo:
+

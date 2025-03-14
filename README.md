@@ -18,7 +18,7 @@ Projects
 NEW YORK TAXI TRIP PREDICTION
 
 This Project aims at predicting the trip duration target variable of the New York taxi trip to help improve logistics and efficiency of allocating trip for drifferent route in the NewYork Metropolis.
-logo: 
+logo: assets/NEWYORKTAXITRIP.png
 
 LOAN PREDICTION
 

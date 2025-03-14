@@ -23,5 +23,5 @@ logo:
 LOAN PREDICTION
 
 This Project is a classification problem focused on predicting loan default using different features in the data set.
-logo:
+logo: assets/loanprediction.jpg
 

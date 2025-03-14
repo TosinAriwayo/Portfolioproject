@@ -1,6 +1,6 @@
 Data Scientist
 
-Technical Skills: Python, SQL, PowerBI, VBA
+Technical Skills: Python, SQL, PowerBI, VBA, Advanced Excel
 
 Education
 
